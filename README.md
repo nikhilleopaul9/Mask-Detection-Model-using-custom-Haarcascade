@@ -2,7 +2,7 @@
 Face Mask Detection using a custom trained Haarcascade with various images with and without masks. The images used are real time images captured through my webcam for creating both the positove as well as negative classes. The Cascade Trainer GUI was used to train and create the Haarcascade File using a positive class of 200 Photos and Negative class of 400 photos. This is a very basic and simple model and cannot be used in major scale.
 
 ## Libraries Required
-OpenCV
+OpenCV 
 Numpy
 
 ## Limitations 
